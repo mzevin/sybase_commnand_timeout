@@ -1,0 +1,12 @@
+*.user
+*.cache
+*.suo
+*.testsettings
+TestResults
+_UpgradeReport_Files
+bin
+obj
+packages
+.sonarqube
+.vs
+
